@@ -27,6 +27,7 @@ public class Nivel1c10 {
         int mayor=0;
         int menor=0;
         int medio=0;
+        System.out.println("hola travis");
         Scanner entrada=new Scanner(System.in);
         System.out.println("ingresar el primer valor ===> ");
         valor1=entrada.nextInt();
