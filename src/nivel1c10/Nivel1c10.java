@@ -56,8 +56,8 @@ public class Nivel1c10 {
         }
         medio=valor1+valor2+valor3-mayor-menor;
         
-        System.out.printf("el valor mayor es ==> %d \n",mayor);
-        
+        System.out.printf("el valor mayor es ==>"+mayor+"\nel valor medio es ==>"+medio+"\nel valor menor es ==>"+menor);
+       
                 
         
     }
