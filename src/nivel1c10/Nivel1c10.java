@@ -37,24 +37,20 @@ public class Nivel1c10 {
         valor3=entrada.nextInt();
         
         mayor=valor1;
-        if
-                (valor2>mayor)
+        if(valor2>mayor)
         {
             mayor=valor2;
         }
-        if
-                (valor3>mayor)
+        if(valor3>mayor)
         {
             mayor=valor3;
         }
         menor=valor1;
-        if
-                (valor2<menor)
+        if(valor2<menor)
         {
             menor=valor2;
         }
-        if
-                (valor3<menor)
+        if(valor3<menor)
         {
             menor=valor3;
         }
